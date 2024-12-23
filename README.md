@@ -2,7 +2,10 @@
 
 ## Method Introduction
 ![photo](intro.png "Example Image")
-
+The illustration of our proposed SOA-GM method, which includes the holo-constraint (social welfare) and mono-constraint (envy). The gradients of the
+joint encoder and uni-modal encoder are detached during the backward and are input into our gradient modulation to conduct optimization regarding social
+optimum to prevent the imbalanced multimodal issue. The contour figure is the schematic diagram to show the reasonability of the utilized social optimum
+strategy compared to the individual utility maximization strategy
 
 ## Usage
 ### Prerequisites
