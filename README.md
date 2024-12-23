@@ -1,7 +1,7 @@
 # SOA-GM
 
 ## Method Introduction
-![photo](intro.pdf "Example Image")
+![photo](intro.png "Example Image")
 
 
 ## Usage
