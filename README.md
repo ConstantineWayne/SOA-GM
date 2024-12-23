@@ -8,6 +8,11 @@ joint encoder and uni-modal encoder are detached during the backward and are inp
 optimum to prevent the imbalanced multimodal issue. The contour figure is the schematic diagram to show the reasonability of the utilized social optimum
 strategy compared to the individual utility maximization strategy
 
+## Experimental Results
+![photo2](Table.png "Results")
+
+we made comparison with the recent counterparts: G-Blending, OGM-GE, Greedy, PMR, AGM and MMPareto on CREMA-D and AVE multimodal datasets.
+
 ## Usage
 ### Prerequisites
 - Python 3.8
