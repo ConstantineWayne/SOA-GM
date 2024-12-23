@@ -1,4 +1,9 @@
 # SOA-GM
+
+## Method Introduction
+![photo](intro.pdf "Example Image")
+
+
 ## Usage
 ### Prerequisites
 - Python 3.8
@@ -14,3 +19,4 @@ In order to train the model, you can use
 bash SOA-GM.sh 
  ```
 in the terminal.
+
